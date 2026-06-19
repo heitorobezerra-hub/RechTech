@@ -54,7 +54,7 @@ In compliance with the Brazilian General Data Protection Law (LGPD – Federal L
 
 * Figma
 * HTML5
-* CSS3
+* CSS
 * JavaScript
 
 ###  Backend
