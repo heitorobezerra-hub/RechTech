@@ -18,8 +18,6 @@ The platform connects users who want to responsibly dispose of their electronic 
 
 ## 📖 Project Overview
 
-## 📖 Project Overview
-
 RechTech is a mobile application developed to reduce the improper disposal of electronic waste by making recycling more accessible, rewarding, and engaging. The platform allows users to locate nearby e-waste collection points through an interactive map, making it easier to dispose of used electronic devices responsibly.
 
 To encourage long-term participation, users receive digital coins whenever they recycle at partner collection centers. These coins can be exchanged for rewards and exclusive benefits, creating a gamified experience that promotes environmental awareness while motivating sustainable habits. Through technology, education, and incentives, RechTech aims to contribute to a cleaner and more sustainable future.
@@ -42,7 +40,11 @@ Users accumulate points for each disposal and compete in a regional leaderboard.
 
 ### 🔒 LGPD Compliance
 
-User data is protected according to Brazil's General Data Protection Law (LGPD).
+Because RechTech relies on user registration and geolocation services to provide personalized recommendations for nearby e-waste collection points, privacy and data protection were considered essential requirements throughout the development process.
+
+Following the principles of Privacy by Design, the application is designed to collect only the information necessary for its core functionalities, such as user identification, location services, and participation in the rewards system. User data is handled responsibly and exclusively for purposes related to the platform's operation.
+
+In compliance with the Brazilian General Data Protection Law (LGPD – Federal Law No. 13.709/2018), RechTech prioritizes transparency, security, and user control over personal information. These measures help create a trustworthy environment while supporting the project's mission of promoting sustainable electronic waste disposal.
 
 ---
 
