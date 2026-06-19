@@ -26,15 +26,15 @@ To encourage long-term participation, users receive digital coins whenever they 
 
 ## ✨ Key Features
 
-### 📍 Smart Geolocation
+###  Smart Geolocation
 
 Real-time geolocation with intelligent filters based on the type of electronic waste.
 
-### 🎮 Gamification System
+###  Gamification System
 
 A rewards program developed with partner stores that encourages continuous recycling through digital incentives.
 
-### 🏆 Regional Ranking
+###  Regional Ranking
 
 Users accumulate points for each disposal and compete in a regional leaderboard.
 
@@ -50,30 +50,30 @@ In compliance with the Brazilian General Data Protection Law (LGPD – Federal L
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+###  Frontend
 
 * Figma
 * HTML5
 * CSS3
 * JavaScript
 
-### ⚙️ Backend
+###  Backend
 
 * Under Development
 
-### 🗄️ Database
+###  Database
 
 * MySQL Workbench
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
-### 🎨 Enhanced User Experience
+###  Enhanced User Experience
 
 We plan to improve the application's interface, making it more intuitive, interactive, and user-friendly.
 
-### 🤖 Good Guy AI Assistant
+###  Good Guy AI Assistant
 
 Future versions will include an AI assistant based on our mascot, **Good Guy**, capable of:
 
