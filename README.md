@@ -1,11 +1,3 @@
-# ♻️ RechTech
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-success" alt="Status">
-  <img src="https://img.shields.io/badge/Platform-Mobile%20%26%20Desktop-blue" alt="Platform">
-  <img src="https://img.shields.io/badge/License-Academic-orange" alt="License">
-  <img src="https://img.shields.io/badge/Project-Sustainability-green" alt="Sustainability">
-</p>
 
 # ♻️ RechTech
 
